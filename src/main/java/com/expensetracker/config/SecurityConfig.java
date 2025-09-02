@@ -57,7 +57,7 @@ public class SecurityConfig {
             .loginPage("/oauth2/authorization/github")
             .successHandler((request, response, authentication) -> {
               String token = userService.OAuthSignUp(authentication);
-              response.sendRedirect("http://localhost:3000/oauth2/github?token="+token);
+              response.sendRedirect("https://expense-tracker-dwht.vercel.app/oauth2/github?token="+token);
             })
         )
         .oauth2ResourceServer(oauth2 -> oauth2
