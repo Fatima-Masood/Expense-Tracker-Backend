@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="386a1296-72b8-41c2-b293-90aaf2c8095b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/expensetracker/expenditure/Expenditure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/expensetracker/expenditure/Expenditure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Expense-Tracker-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Expense-Tracker-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Expense-Tracker-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/Expense-Tracker-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/dto/ExpenditureDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/dto/MonthlySummaryResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/dto/PasswordUpdateRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/dto/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/expenditure/Expenditure$ExpenditureBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/expenditure/Expenditure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/expenditure/ExpenditureController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/expenditure/ExpenditureRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/expenditure/ExpenditureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/limits/MonthlyLimit$MonthlyLimitBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/limits/MonthlyLimit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/limits/MonthlyLimitController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/limits/MonthlyLimitRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/limits/MonthlyLimitService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/user/User$UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/user/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/user/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/expensetracker/user/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/git.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/git.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cpd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pmd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pmd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/cpd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/pmd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/reports/pmd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/Expenditure.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/Expenditure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/Expenditure.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/Expenditure.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.expensetracker.expenditure/index.source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/spotbugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/spotbugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spotbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/spotbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.config.SecurityConfigTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.config.SecurityConfigTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.dto.MonthlySummaryResponseTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.dto.MonthlySummaryResponseTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.expenditure.ExpenditureControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.expenditure.ExpenditureControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.expenditure.ExpenditureServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.expenditure.ExpenditureServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.expenditure.ExpenditureTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.expenditure.ExpenditureTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.limits.MonthlyLimitControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.limits.MonthlyLimitControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.limits.MonthlyLimitServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.limits.MonthlyLimitServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.limits.MonthlyLimitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.limits.MonthlyLimitTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.user.UserControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.user.UserControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.user.UserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.user.UserServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.user.UserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.expensetracker.user.UserTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.config.SecurityConfigTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.config.SecurityConfigTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.dto.MonthlySummaryResponseTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.dto.MonthlySummaryResponseTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.expenditure.ExpenditureControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.expenditure.ExpenditureControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.expenditure.ExpenditureServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.expenditure.ExpenditureServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.expenditure.ExpenditureTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.expenditure.ExpenditureTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.limits.MonthlyLimitControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.limits.MonthlyLimitControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.limits.MonthlyLimitServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.limits.MonthlyLimitServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.limits.MonthlyLimitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.limits.MonthlyLimitTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.user.UserControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.user.UserControllerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.user.UserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.user.UserServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.user.UserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.expensetracker.user.UserTest.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fatima-Masood&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fatima-Masood/Expense-Tracker.git&quot;,
+    &quot;accountId&quot;: &quot;510a0be0-2242-4e0d-adce-f55eb647c9b3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="30UOTDgfWpEEC41zKi6B7hJvvHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.APITests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddExpenditureTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in Expense-Tracker (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in Expense-Tracker (2).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in Expense-Tracker (3).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in Expense-Tracker.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppConfigTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ApplicationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CollectionsAndDTOsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DTOsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DTOsTest.testGettersSettersEqualsHashCodeToString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureApiTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureControllerTest.testGetExpendituresByUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureControllerTest.testUpdateExpenditure_Failure.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureControllerTest.testUpdateExpenditure_Success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExpenditureTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JwtAuthFilterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MonthlyLimitControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MonthlyLimitServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MonthlyLimitServiceTest.testGetMonthlySummary_WithLimitAndExpenses.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MonthlyLimitTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MonthlySummaryResponseTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PasswordUpdateRequestTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SecurityConfigTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserApiTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserApiTests.testUpdatePasswordSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerTest.testUpdatePassword_userNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserDTOTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.8.6.2:gui].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.8.6.2:spotbugs].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.8.6.2:verify].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.1:check].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.1:gui].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.2:check].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.2:gui].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.2:help].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.2:spotbugs].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [com.github.spotbugs:spotbugs-maven-plugin:4.9.3.2:verify].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-clean-plugin:3.3.2:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-pmd-plugin:3.27.0:aggregate-pmd-check].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-pmd-plugin:3.27.0:check].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-pmd-plugin:3.27.0:cpd-check].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-pmd-plugin:3.27.0:cpd].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-pmd-plugin:3.27.0:pmd].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-resources-plugin:3.3.1:testResources].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.apache.maven.plugins:maven-surefire-plugin:3.5.3:test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [org.owasp:dependency-check-maven:10.0.4:check].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Expense-Tracker [verify].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/sayyeda.fatima.masoo/Documents/Java-Springboot/Expense-Tracker/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sayyeda.fatima.masoo/Documents/Expense-Tracker/Expense-Tracker-Backend&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.expensetracker.config" />
+      <recent name="com.expensetracker.user" />
+      <recent name="com.expensetracker.expenditure" />
+      <recent name="com.expensetracker" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in Expense-Tracker (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Expense-Tracker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Expense-Tracker (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Expense-Tracker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsAndDTOsTest.testGettersSettersEqualsHashCodeToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Expense-Tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.expensetracker.expenditure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.expensetracker" />
+      <option name="MAIN_CLASS_NAME" value="com.expensetracker.CollectionsAndDTOsTest" />
+      <option name="METHOD_NAME" value="testGettersSettersEqualsHashCodeToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenditureControllerTest.testUpdateExpenditure_Success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Expense-Tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.expensetracker.expenditure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.expensetracker.expenditure" />
+      <option name="MAIN_CLASS_NAME" value="com.expensetracker.expenditure.ExpenditureControllerTest" />
+      <option name="METHOD_NAME" value="testUpdateExpenditure_Success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonthlyLimitServiceTest.testGetMonthlySummary_WithLimitAndExpenses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Expense-Tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.expensetracker.limits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.expensetracker.limits" />
+      <option name="MAIN_CLASS_NAME" value="com.expensetracker.limits.MonthlyLimitServiceTest" />
+      <option name="METHOD_NAME" value="testGetMonthlySummary_WithLimitAndExpenses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Expense-Tracker (2)" />
+        <item itemvalue="JUnit.ExpenditureControllerTest.testUpdateExpenditure_Success" />
+        <item itemvalue="JUnit.MonthlyLimitServiceTest.testGetMonthlySummary_WithLimitAndExpenses" />
+        <item itemvalue="JUnit.All in Expense-Tracker (3)" />
+        <item itemvalue="JUnit.CollectionsAndDTOsTest.testGettersSettersEqualsHashCodeToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="386a1296-72b8-41c2-b293-90aaf2c8095b" name="Changes" comment="" />
+      <created>1753678690382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753678690382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Expense_Tracker$All_in_Expense_Tracker.ic" NAME="All in Expense-Tracker Coverage Results" MODIFIED="1754040410949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
